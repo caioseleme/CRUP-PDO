@@ -1,2 +1,2 @@
-# CRUP-PDO
-Atividade do CRUD de TPA
+# COTEMIG FIT
+Atividade do COTEMIG FIT de TPA
